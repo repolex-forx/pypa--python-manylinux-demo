@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/pypa/python-manylinux-demo",
+  "@type": "gh:Repository",
+  "gh:name": "python-manylinux-demo",
+  "gh:owner": "pypa",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/pypa/python-manylinux-demo/commit/8247a02cc646048f32786e3b708be494ec730296",
+      "git:hexsha": "8247a02cc646048f32786e3b708be494ec730296",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}

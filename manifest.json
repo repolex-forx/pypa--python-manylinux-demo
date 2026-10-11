@@ -1,0 +1,29 @@
+{
+  "manifest_version": "1.0",
+  "org": "pypa",
+  "repo": "python-manylinux-demo",
+  "versions": [
+    {
+      "commit": "8247a02cc646048f32786e3b708be494ec730296",
+      "parsed_at": "2026-10-11T09:16:15.773665+00:00",
+      "filetree": "filetree/8247a02cc646048f32786e3b708be494ec730296.nq.gz",
+      "blobs": [
+        "blob/51e4a733d2ec06da544b905651a738cd33eab79a.nq.gz",
+        "blob/9b179a3bafb5e1d49e1a34585738b0f357ad8655.nq.gz",
+        "blob/f3c7e8e6ffb905f7de8b597eb22213a7dc20bfb3.nq.gz",
+        "blob/1dbc687de014ee027b4e6c0d7f2a37ee7636137e.nq.gz",
+        "blob/f1e0f37977b34790631b8b326ea94d48f2c07f3e.nq.gz",
+        "blob/f13f15ed536a9118a2086f0c47465172a69bff36.nq.gz",
+        "blob/3bbbc1ee92562e6a2eebfc6a366f4309d06c7d54.nq.gz",
+        "blob/f751a7591ba48ef31ab7e43826e1cdf9ba5bf34c.nq.gz",
+        "blob/4e66afb22d873ff0e853885b2037ffe99de3b4fc.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
