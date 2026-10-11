@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pypa/python-manylinux-demo/commit/8247a02cc646048f32786e3b708be494ec730296",
       "git:hexsha": "8247a02cc646048f32786e3b708be494ec730296",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
